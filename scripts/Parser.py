@@ -22,7 +22,9 @@ TEST_SPARSE = None
 TRAIN_TARGET = []
 TEST_TARGET = []
 
-
+# debugging
+count_vect = None
+author_target_map = None
 
 def _extract_target_value(filename):
     '''
@@ -89,29 +91,39 @@ def run_script():
 
     # some preprocessing
     filenames = data_directory_read(DATA_DIRECTORY)
+    
+    global author_target_map
     author_target_map = map_author_value(filenames) # maps authors to integer values
 
     shuffle_data(filenames)
 
-    train_data, test_data = split_data(filenames, .75)
+#    train_data, test_data = split_data(filenames, .75)
 
     # Bag of words creation
-
+    global count_vect
     count_vect = CountVectorizer()
+    
+    
+    global TRAIN_TARGET, TRAIN_SPARSE, TEST_TARGET, TEST_SPARSE
+    FILENAMES = count_vect.fit_transform(cat_data(filenames))
+    TRAIN_TARGET = get_target_values(filenames[:40], author_target_map)
+    TRAIN_SPARSE = FILENAMES[:40]
+    TEST_TARGET = get_target_values(filenames[40:], author_target_map)
+    TEST_SPARSE = FILENAMES[40:]
 
-    # Create data for training
-    global TRAIN_TARGET
-    global TRAIN_SPARSE
-    TRAIN_TARGET = get_target_values(train_data, author_target_map)
-    TRAIN_SPARSE = count_vect.fit_transform(cat_data(train_data))
-
-    # Create data for testing
-    global TEST_TARGET
-    global TEST_SPARSE
-    TEST_TARGET = get_target_values(test_data, author_target_map)
-    TEST_SPARSE = count_vect.fit_transform(cat_data(test_data))
-
-    #TODO: N-grams representation
+#    # Create data for training
+#    global TRAIN_TARGET
+#    global TRAIN_SPARSE
+#    TRAIN_TARGET = get_target_values(train_data, author_target_map)
+#    TRAIN_SPARSE = count_vect.fit_transform(cat_data(train_data))
+#
+#    # Create data for testing
+#    global TEST_TARGET
+#    global TEST_SPARSE
+#    TEST_TARGET = get_target_values(test_data, author_target_map)
+#    TEST_SPARSE = count_vect.fit_transform(cat_data(test_data))
+#
+#    #TODO: N-grams representation
 
 
 
