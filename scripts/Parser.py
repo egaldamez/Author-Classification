@@ -11,10 +11,11 @@ Created on Mon Feb 16 12:37:33 2015
 
 from DataInitializer import data_directory_read, shuffle_data, split_data
 from sklearn.feature_extraction.text import CountVectorizer
+import numpy
 
 
-DATA_DIRECTORY = 'C:\\Users\\Edwin\\Documents\\CS175\\Project\\filtereddata'
-# DATA_DIRECTORY  = '' # change to directory of filtereddata on your machine
+#DATA_DIRECTORY = 'C:\\Users\\Edwin\\Documents\\CS175\\Project\\filtereddata'
+DATA_DIRECTORY  = 'C:\\Users\\Robert\\Documents\\UCI\\CS 175\\Project\\filtereddata' # change to directory of filtereddata on your machine
 
 TRAIN_SPARSE = None
 TEST_SPARSE = None
@@ -38,7 +39,7 @@ def map_author_value(corpus):
     '''
 
     author_map = {}
-    author_id = 0
+    author_id = 0 
     for doc in corpus:
         author = _extract_target_value(doc)
         if author not in author_map:
@@ -69,16 +70,20 @@ def cat_data(data_directory):
     '''
         Create a large list where each element is a string representing a document.
     '''
+    from nltk import word_tokenize
+    
     corpus = []
-
-    global TRAIN_TARGET
-
+    
+    tokenCount = []
     for document in data_directory:
         # open every file and append its contents to corpus
         with open(DATA_DIRECTORY + '\\' + document) as doc:
-            corpus.append(doc.read())
-
-
+            raw = doc.read();
+            corpus.append(raw)
+            #tokenCount.append(len(word_tokenize(raw)));
+            
+            
+    print("Average Token Count: ",numpy.mean(tokenCount));
 
     return corpus
 
@@ -111,19 +116,11 @@ def run_script():
     TEST_TARGET = get_target_values(filenames[40:], author_target_map)
     TEST_SPARSE = FILENAMES[40:]
 
-#    # Create data for training
-#    global TRAIN_TARGET
-#    global TRAIN_SPARSE
-#    TRAIN_TARGET = get_target_values(train_data, author_target_map)
-#    TRAIN_SPARSE = count_vect.fit_transform(cat_data(train_data))
-#
-#    # Create data for testing
-#    global TEST_TARGET
-#    global TEST_SPARSE
-#    TEST_TARGET = get_target_values(test_data, author_target_map)
-#    TEST_SPARSE = count_vect.fit_transform(cat_data(test_data))
 #
 #    #TODO: N-grams representation
+
+def get_filenames():
+    return data_directory_read(DATA_DIRECTORY)
 
 
 
