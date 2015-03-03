@@ -46,6 +46,12 @@ for i in range(iters):
     mnb_train_predictions = mnb_clf.predict(train_data)
     mnb_predictions = mnb_clf.predict(test_data)
 
+    # Record the prediction accuracies
+    mnb_tr_list.append(numpy.mean(mnb_train_predictions == Parser.TRAIN_TARGET))
+    mnb_te_list.append(numpy.mean(mnb_predictions == Parser.TEST_TARGET))
+    knn_tr_list.append(numpy.mean(knn_train_predictions == Parser.TRAIN_TARGET))
+    knn_te_list.append(numpy.mean(knn_predictions == Parser.TEST_TARGET))
+
     # Print accuracies for each run for debugging
 ##    print("ITER #" + str(i))
 ##    print("Train Accuracy of KNN",numpy.mean(knn_train_predictions == Parser.TRAIN_TARGET))
@@ -53,12 +59,6 @@ for i in range(iters):
 ##
 ##    print("Train Accuracy of MNB",numpy.mean(mnb_train_predictions == Parser.TRAIN_TARGET))
 ##    print("Test Accuracy of MNB",numpy.mean(mnb_predictions == Parser.TEST_TARGET))
-
-    # Record the prediction accuracies
-    mnb_tr_list.append(numpy.mean(mnb_train_predictions == Parser.TRAIN_TARGET))
-    mnb_te_list.append(numpy.mean(mnb_predictions == Parser.TEST_TARGET))
-    knn_tr_list.append(numpy.mean(knn_train_predictions == Parser.TRAIN_TARGET))
-    knn_te_list.append(numpy.mean(knn_predictions == Parser.TEST_TARGET))
 
 # Output average accuracies
 print("\nAverage MNB train accuracy:", numpy.mean(mnb_tr_list))
