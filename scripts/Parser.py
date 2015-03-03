@@ -14,8 +14,7 @@ from sklearn.feature_extraction.text import CountVectorizer
 import numpy
 
 
-#DATA_DIRECTORY = 'C:\\Users\\Edwin\\Documents\\CS175\\Project\\filtereddata'
-DATA_DIRECTORY  = 'C:\\Users\\Robert\\Documents\\UCI\\CS 175\\Project\\filtereddata' # change to directory of filtereddata on your machine
+DATA_DIRECTORY  = '..\\filtereddata'    # ASSUMING THE DATA IS IN THE SAME RELATIVE PATH FOR EVERYONE
 
 TRAIN_SPARSE = None
 TEST_SPARSE = None
@@ -82,8 +81,13 @@ def cat_data(data_directory):
             corpus.append(raw)
             #tokenCount.append(len(word_tokenize(raw)));
             
-            
-    print("Average Token Count: ",numpy.mean(tokenCount));
+
+    # UNCOMMENT ABOVE LINE AND BELOW LINEES TO SHOW SOME INFO ABOUT DOCS
+    #print("Average Token Count: ",numpy.mean(tokenCount));
+    #print("Standard Deviation: ",numpy.std(tokenCount));
+    #print("Shortest Text Length: ",min(tokenCount));
+    #print("Longest Text Length: ",max(tokenCount));
+    #print("Total Test Length: ",sum(tokenCount));
 
     return corpus
 
@@ -111,6 +115,8 @@ def run_script():
     
     global TRAIN_TARGET, TRAIN_SPARSE, TEST_TARGET, TEST_SPARSE
     FILENAMES = count_vect.fit_transform(cat_data(filenames))
+    # UNCOMMENT TO SHOW MATRIX SIZE (Docs x Features)
+    #print("Size of Doc/Feature matrix: ", FILENAMES.shape)
     TRAIN_TARGET = get_target_values(filenames[:40], author_target_map)
     TRAIN_SPARSE = FILENAMES[:40]
     TEST_TARGET = get_target_values(filenames[40:], author_target_map)
@@ -129,6 +135,7 @@ def run_script():
 #    TEST_SPARSE = count_vect.fit_transform(cat_data(test_data))
 #
 #    #TODO: N-grams representation
+
 
 def get_filenames():
     return data_directory_read(DATA_DIRECTORY)

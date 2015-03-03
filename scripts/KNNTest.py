@@ -1,4 +1,5 @@
 import Parser
+import numpy
 
 def cross_validate_knn(V,K):
     
@@ -11,7 +12,7 @@ def cross_validate_knn(V,K):
     author_target_map = Parser.map_author_value(filenames) # maps authors to integer values
     
     #bag of words representation
-    count_vect = CountVectorizer(ngram_range=(2,3))
+    count_vect = CountVectorizer()
     
     # term frequency–inverse document frequency
     #tfid_vect = TfidfVectorizer(ngram_range=(2,3))
@@ -28,9 +29,11 @@ def cross_validate_knn(V,K):
     #FILENAMES = tfid_vect.fit_transform(cat_data(filenames))
     
     n_samples,n_features = FILENAMES.shape
+    print("Matrix Shape: ",n_samples,"x",n_features)
     kf = cross_validation.KFold(n_samples,V)
     validationAccuracy = [];
-    k = 1;
+    trainAccuracy = []
+    k = 54;
     for train_index,test_index in kf:
         ValidationSet = FILENAMES[test_index]
         TrainSet = FILENAMES[train_index]
@@ -46,13 +49,18 @@ def cross_validate_knn(V,K):
         clf.Train(TrainSet, TrainTarget)
     
         predictions = clf.Predict(ValidationSet )
+        train_predictions = clf.Predict(TrainSet)
         va = numpy.mean(predictions == ValidationTarget)
+        ta = numpy.mean(train_predictions == TrainTarget)
         validationAccuracy.append(va);
-        print("Beta Accuracy of KNN Iter# ",k," Result: ",va)
+        trainAccuracy.append(ta);
+        print("\nBeta Accuracy of KNN Iter# ",k," Result: ",va)
+        print("Train Accuracy of KNN Iter# ",k," Result: ",ta)
         k = k+1
-    return validationAccuracy;
+    return validationAccuracy, trainAccuracy;
 
 VA = cross_validate_knn(5,1)
-print("Mean Accuracy: ", numpy.mean(VA))
+print("\nMean Accuracy: ", numpy.mean(VA[0]))
+print("Mean Train Accuracy: ", numpy.mean(VA[1]))
 
 
