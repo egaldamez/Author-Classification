@@ -1,9 +1,6 @@
 import Parser
 import numpy
-<<<<<<< HEAD
 
-=======
->>>>>>> 0b182e2313013184daaf00fd1b2592b96fb765a0
 def cross_validate_knn(V,K):
    
     from sklearn.feature_extraction.text import TfidfVectorizer,CountVectorizer
@@ -15,11 +12,7 @@ def cross_validate_knn(V,K):
     author_target_map = Parser.map_author_value(filenames) # maps authors to integer values
     
     #bag of words representation
-<<<<<<< HEAD
-    count_vect = CountVectorizer()
-=======
     #count_vect = CountVectorizer(ngram_range=(2,3))
->>>>>>> 0b182e2313013184daaf00fd1b2592b96fb765a0
     
     # term frequency–inverse document frequency
     tfid_vect = TfidfVectorizer()

@@ -81,18 +81,12 @@ def cat_data(data_directory):
             corpus.append(raw)
             #tokenCount.append(len(word_tokenize(raw)));
             
-<<<<<<< HEAD
-
     # UNCOMMENT ABOVE LINE AND BELOW LINEES TO SHOW SOME INFO ABOUT DOCS
     #print("Average Token Count: ",numpy.mean(tokenCount));
     #print("Standard Deviation: ",numpy.std(tokenCount));
     #print("Shortest Text Length: ",min(tokenCount));
     #print("Longest Text Length: ",max(tokenCount));
     #print("Total Test Length: ",sum(tokenCount));
-=======
-            
-    #print("Average Token Count: ",numpy.mean(tokenCount));
->>>>>>> 0b182e2313013184daaf00fd1b2592b96fb765a0
 
     return corpus
 
