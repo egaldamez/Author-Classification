@@ -1,0 +1,110 @@
+ most fatal of all habits in
+computation--the making _two_ mistakes which cancel each other. She
+takes _x_ as the width of the garden, in yards, and _x_ + 1/2 as its
+length, and makes her first "coil" the sum of _x_-1/2, _x_-1/2, _x_-1,
+_x_-1, _i.e._ 4_x_-3: but the fourth term should be _x_-1-1/2, so that
+her first coil is 1/2 a yard too long. Her second coil is the sum of
+_x_-2-1/2, _x_-2-1/2, _x_-3, _x_-3: here the first term should be _x_-2
+and the last _x_-3-1/2: these two mistakes cancel, and this coil is
+therefore right. And the same thing is true of every other coil but the
+last, which needs an extra half-yard to reach the _end_ of the path: and
+this exactly balances the mistake in the first coil. Thus the sum total
+of the coils comes right though the working is all wrong.
+
+Of the seven who are right, DINAH MITE, JANET, MAGPIE, and TAFFY make
+the same assumption as C. G. L. and Co. They then solve by a Quadratic.
+MAGPIE also tries it by Arithmetical Progression, but fails to notice
+that the first and last "coils" have special values.
+
+ALUMNUS ETONÆ attempts to prove what C. G. L. assumes by a particular
+instance, taking a garden 6 by 5-1/2. He ought to have proved it
+generally: what is true of one number is not always true of others. OLD
+KING COLE solves it by an Arithmetical Progression. It is right, but too
+lengthy to be worth as much as a Quadratic.
+
+VINDEX proves it very neatly, by pointing out that a yard of walk
+measured along the middle represents a square yard of garden, "whether
+we consider the straight stretches of walk or the square yards at the
+angles, in which the middle line goes half a yard in one direction and
+then turns a right angle and goes half a yard in another direction."
+
+
+CLASS LIST.
+
+I.
+
+   VINDEX.
+
+II.
+
+   ALUMNUS ETONÆ.
+   OLD KING COLE.
+
+III.
+
+   DINAH MITE.
+   JANET.
+   MAGPIE.
+   TAFFY.
+
+
+ANSWERS TO KNOT X.
+
+
+§ 1. THE CHELSEA PENSIONERS.
+
+_Problem._--If 70 per cent. have lost an eye, 75 per cent. an ear, 80
+per cent. an arm, 85 per cent. a leg: what percentage, _at least_, must
+have lost all four?
+
+_Answer._--Ten.
+
+
+_Solution._--(I adopt that of POLAR STAR, as being better than my own).
+Adding the wounds together, we get 70 + 75 + 80 + 85 = 310, among 100
+men; which gives 3 to each, and 4 to 10 men. Therefore the least
+percentage is 10.
+
+       *       *       *       *       *
+
+Nineteen answers have been received. One is "5," but, as no working is
+given with it, it must, in accordance with the rule, remain "a deed
+without a name." JANET makes it "35 and 7/10ths." I am sorry she has
+misunderstood the question, and has supposed that those who had lost an
+ear were 75 per cent. _of those who had lost an eye_; and so on. Of
+course, on this supposition, the percentages must all be multiplied
+together. This she has done correctly, but I can give her no honours,
+as I do not think the question will fairly bear her interpretation,
+THREE SCORE AND TEN makes it "19 and 3/8ths." Her solution has given
+me--I will not say "many anxious days and sleepless nights," for I wish
+to be strictly truthful, but--some trouble in making any sense at all of
+it. She makes the number of "pensioners wounded once" to be 310 ("per
+cent.," I suppose!): dividing by 4, she gets 77 and a half as "average
+percentage:" again dividing by 4, she gets 19 and 3/8ths as "percentage
+wounded four times." Does she suppose wounds of different kinds to
+"absorb" each other, so to speak? Then, no doubt, the _data_ are
+equivalent to 77 pensioners with one wound each, and a half-pensioner
+with a half-wound. And does she then suppose these concentrated wounds
+to be _transferable_, so that 3/4ths of these unfortunates can obtain
+perfect health by handing over their wounds to the remaining 1/4th?
+Granting these suppositions, her answer is right; or rather, _if_ the
+question had been "A road is covered with one inch of gravel, along 77
+and a half per cent. of it. How much of it could be covered 4 inches
+deep with the same material?" her answer _would_ have been right. But
+alas, that _wasn't_ the question! DELTA makes some most amazing
+assumptions: "let every one who has not lost an eye have lost an ear,"
+"let every one who has not lost both eyes and ears have lost an arm."
+Her ideas of a battle-field are grim indeed. Fancy a warrior who would
+continue fighting after losing both eyes, both ears, and both arms! This
+is a case which she (or "it?") evidently considers _possible_.
+
+Next come eight writers who have made the unwarrantable assumption that,
+because 70 per cent. have lost an eye, _therefore_ 30 per cent. have
+_not_ lost one, so that they have _both_ eyes. This is illogical. If you
+give me a bag containing 100 sovereigns, and if in an hour I come to you
+(my face _not_ beaming with gratitude nearly so much as when I received
+the bag) to say "I am sorry to tell you that 70 of these sovereigns are
+bad," do I thereby guarantee the other 30 to be good? Perhaps I have not
+tested them yet. The sides of this illogical octagon are as follows, in
+alphabetical order:--ALGERNON BRAY, DINAH MITE, G. S. C., JANE E., J. D.
+W., MAGPIE (who makes the d

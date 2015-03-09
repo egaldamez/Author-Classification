@@ -1,0 +1,120 @@
+ _A_, _D_ = 2_B_. She then says "supposing that _A_ = 1,
+then _B_ = 2, _C_ = 3, and _D_ = 4. Therefore for _A_, _B_, _C_, _D_,
+four numbers are wanted which shall be to each other as 1:2:3:4." It is
+in the "therefore" that I detect the unconscientiousness of this bird.
+The conclusion _is_ true, but this is only because the equations are
+"homogeneous" (_i.e._ having one "unknown" in each term), a fact which I
+strongly suspect had not been grasped--I beg pardon, clawed--by her.
+Were I to lay this little pitfall, "_A_ + 1 = _B_, _B_ + 1 = _C_;
+supposing _A_ = 1, then _B_ = 2 and _C_ = 3. _Therefore_ for _A_, _B_,
+_C_, three numbers are wanted which shall be to one another as 1:2:3,"
+would you not flutter down into it, oh MAGPIE, as amiably as a Dove?
+SIMPLE SUSAN is anything but simple to _me_. After ascertaining that the
+3 ages at first are as 3:2:1, she says "then, as two-thirds of their
+sum, added to one of them, = 21, the sum cannot exceed 30, and
+consequently the highest cannot exceed 15." I suppose her (mental)
+argument is something like this:--"two-thirds of sum, + one age, = 21;
+[** therefore] sum, + 3 halves of one age, = 31 and a half. But 3 halves of
+one age cannot be less than 1 and-a-half (here I perceive that SIMPLE
+SUSAN would on no account present a guinea to a new-born baby!) hence
+the sum cannot exceed 30." This is ingenious, but her proof, after that,
+is (as she candidly admits) "clumsy and roundabout." She finds that
+there are 5 possible sets of ages, and eliminates four of them. Suppose
+that, instead of 5, there had been 5 million possible sets? Would SIMPLE
+SUSAN have courageously ordered in the necessary gallon of ink and ream
+of paper?
+
+The solution sent in by C. R. is, like that of SIMPLE SUSAN, partly
+tentative, and so does not rise higher than being Clumsily Right.
+
+Among those who have earned the highest honours, ALGERNON BRAY solves
+the problem quite correctly, but adds that there is nothing to exclude
+the supposition that all the ages were _fractional_. This would make the
+number of answers infinite. Let me meekly protest that I _never_
+intended my readers to devote the rest of their lives to writing out
+answers! E. M. RIX points out that, if fractional ages be admissible,
+any one of the three sons might be the one "come of age"; but she
+rightly rejects this supposition on the ground that it would make the
+problem indeterminate. WHITE SUGAR is the only one who has detected an
+oversight of mine: I had forgotten the possibility (which of course
+ought to be allowed for) that the son, who came of age that _year_, need
+not have done so by that _day_, so that he _might_ be only 20. This
+gives a second solution, viz., 20, 24, 28. Well said, pure Crystal!
+Verily, thy "fair discourse hath been as sugar"!
+
+
+CLASS LIST.
+
+I.
+
+   ALGERNON BRAY.
+   AN OLD FOGEY.
+   E. M. RIX.
+   G. S. C.
+   S. S. G.
+   TOKIO.
+   T. R.
+   WHITE SUGAR.
+
+II.
+
+   C. R.
+   DELTA.
+   MAGPIE.
+   SIMPLE SUSAN.
+
+III.
+
+   DINAH MITE.
+   M. F. C.
+
+       *       *       *       *       *
+
+I have received more than one remonstrance on my assertion, in the
+Chelsea Pensioners' problem, that it was illogical to assume, from the
+_datum_ "70 p. c. have lost an eye," that 30 p. c. have _not_. ALGERNON
+BRAY states, as a parallel case, "suppose Tommy's father gives him 4
+apples, and he eats one of them, how many has he left?" and says "I
+think we are justified in answering, 3." I think so too. There is no
+"must" here, and the _data_ are evidently meant to fix the answer
+_exactly_: but, if the question were set me "how many _must_ he have
+left?", I should understand the _data_ to be that his father gave him 4
+_at least_, but _may_ have given him more.
+
+I take this opportunity of thanking those who have sent, along with
+their answers to the Tenth Knot, regrets that there are no more Knots to
+come, or petitions that I should recall my resolution to bring them to
+an end. I am most grateful for their kind words; but I think it wisest
+to end what, at best, was but a lame attempt. "The stretched metre of an
+antique song" is beyond my compass; and my puppets were neither
+distinctly _in_ my life (like those I now address), nor yet (like Alice
+and the Mock Turtle) distinctly _out_ of it. Yet let me at least fancy,
+as I lay down the pen, that I carry with me into my silent life, dear
+reader, a farewell smile from your unseen face, and a kindly farewell
+pressure from your unfelt hand! And so, good night! Parting is such
+sweet sorrow, that I shall say "good night!" till it be morrow.
+
+THE END
+
+LONDON: RICHARD CLAY AND SONS, PRINTERS.
+
+[TURN OVER.
+
+
+
+
+WORKS BY LEWIS CARROLL.
+
+
+ALICE'S ADVENTURES IN WONDERLAND.
+
+With Forty-two Illustrations by TENNIEL. Crown 8vo, cloth, gilt edges,
+price 6_s._ Seventy-fifth Thousand.
+
+TRANSLATIONS OF THE SAME--into French, by HENRI BUÉ--into German, by
+ANTONIE ZIMMERMANN--and into Italian, by T. PIETROCÒLA ROSSETTI--with
+TENNIEL'S Illustrations. Crown 8vo, cloth, gilt edges, price 6_s._ each.
+
+THROUGH THE LOOKING-GLASS, AND WHAT ALICE FOUND THERE. With Fifty
+Illustrations by TENNIEL. Crown 8vo, cloth, gilt edges, price 6_s._
+Fift

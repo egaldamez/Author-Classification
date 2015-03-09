@@ -1,0 +1,144 @@
+a mile, ascended and descended, took the
+same time as two level miles, I mark them as "right." A MARLBOROUGH BOY
+and PUTNEY WALKER deserve honourable mention for their algebraical
+solutions being the only two who have perceived that the question leads
+to _an indeterminate equation_. E. W. brings a charge of untruthfulness
+against the aged knight--a serious charge, for he was the very pink of
+chivalry! She says "According to the data given, the time at the summit
+affords no clue to the total distance. It does not enable us to state
+precisely to an inch how much level and how much hill there was on the
+road." "Fair damsel," the aged knight replies, "--if, as I surmise, thy
+initials denote Early Womanhood--bethink thee that the word 'enable' is
+thine, not mine. I did but ask the time of reaching the hill-top as my
+_condition_ for further parley. If _now_ thou wilt not grant that I am a
+truth-loving man, then will I affirm that those same initials denote
+Envenomed Wickedness!"
+
+
+CLASS LIST.
+
+I.
+
+   A MARLBOROUGH BOY.
+   PUTNEY WALKER.
+
+II.
+
+   BLITHE.
+   E. W.
+   L. B.
+   O. V. L.
+   ROSE.
+   SEA BREEZE.
+   {SIMPLE SUSAN.
+   {MONEY-SPINNER.
+
+BLITHE has made so ingenious an addition to the problem, and SIMPLE
+SUSAN and CO. have solved it in such tuneful verse, that I record both
+their answers in full. I have altered a word or two in BLITHE'S--which I
+trust she will excuse; it did not seem quite clear as it stood.
+
+       *       *       *       *       *
+
+"Yet stay," said the youth, as a gleam of inspiration lighted up the
+relaxing muscles of his quiescent features. "Stay. Methinks it matters
+little _when_ we reached that summit, the crown of our toil. For in the
+space of time wherein we clambered up one mile and bounded down the same
+on our return, we could have trudged the _twain_ on the level. We have
+plodded, then, four-and-twenty miles in these six mortal hours; for
+never a moment did we stop for catching of fleeting breath or for gazing
+on the scene around!"
+
+"Very good," said the old man. "Twelve miles out and twelve miles in.
+And we reached the top some time between six and seven of the clock. Now
+mark me! For every five minutes that had fled since six of the clock
+when we stood on yonder peak, so many miles had we toiled upwards on the
+dreary mountainside!"
+
+The youth moaned and rushed into the hostel.
+
+   BLITHE.
+
+   The elder and the younger knight,
+     They sallied forth at three;
+   How far they went on level ground
+     It matters not to me;
+   What time they reached the foot of hill,
+     When they began to mount,
+   Are problems which I hold to be
+     Of very small account.
+
+   The moment that each waved his hat
+     Upon the topmost peak--
+   To trivial query such as this
+     No answer will I seek.
+   Yet can I tell the distance well
+     They must have travelled o'er:
+   On hill and plain, 'twixt three and nine,
+     The miles were twenty-four.
+
+   Four miles an hour their steady pace
+     Along the level track,
+   Three when they climbed--but six when they
+     Came swiftly striding back
+   Adown the hill; and little skill
+     It needs, methinks, to show,
+   Up hill and down together told,
+     Four miles an hour they go.
+
+   For whether long or short the time
+     Upon the hill they spent,
+   Two thirds were passed in going up,
+     One third in the descent.
+   Two thirds at three, one third at six,
+     If rightly reckoned o'er,
+   Will make one whole at four--the tale
+     Is tangled now no more.
+
+                                SIMPLE SUSAN.
+                                MONEY SPINNER.
+
+
+ANSWERS TO KNOT II.
+
+§ 1. THE DINNER PARTY.
+
+_Problem._--"The Governor of Kgovjni wants to give a very small dinner
+party, and invites his father's brother-in-law, his brother's
+father-in-law, his father-in-law's brother, and his brother-in-law's
+father. Find the number of guests."
+
+_Answer._--"One."
+
+       *       *       *       *       *
+
+In this genealogy, males are denoted by capitals, and females by small
+letters.
+
+The Governor is E and his guest is C.
+
+            A = a
+              |
+       +------+-+----+
+       |        |    |
+   b = B    D = d    C = c
+     |        |        |
+     |   +---++--+   +-+-+
+     |   |   |   |   |   |
+     e = E   |   g = G   |
+             F ========= f
+
+Ten answers have been received. Of these, one is wrong, GALANTHUS
+NIVALIS MAJOR, who insists on inviting _two_ guests, one being the
+Governor's _wife's brother's father_. If she had taken his _sister's
+husband's father_ instead, she would have found it possible to reduce
+the guests to _one_.
+
+Of the nine who send right answers, SEA-BREEZE is the very faintest
+breath that ever bore the name! She simply states that the Governor's
+uncle might fulfill all the conditions "by intermarriages"! "Wind of the
+western sea," you have had a very narrow escape! Be thankful to appear
+in the Class-list at all! BOG-OAK and BRADSHAW OF THE FUTURE use
+genealogies which require 16 people instead of 14, by inviting the
+Governor's _father's sister's husband_ instead of his _father's wife's
+brother_. I cannot think this so good a solution as one th

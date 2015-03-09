@@ -1,0 +1,120 @@
+elightful remark "therefore 90 per cent. have
+two of something," recalling to one's memory that fortunate monarch,
+with whom Xerxes was so much pleased that "he gave him ten of
+everything!"), S. S. G., and TOKIO.
+
+BRADSHAW OF THE FUTURE and T. R. do the question in a piecemeal
+fashion--on the principle that the 70 per cent. and the 75 per cent.,
+though commenced at opposite ends of the 100, must overlap by _at least_
+45 per cent.; and so on. This is quite correct working, but not, I
+think, quite the best way of doing it.
+
+The other five competitors will, I hope, feel themselves sufficiently
+glorified by being placed in the first class, without my composing a
+Triumphal Ode for each!
+
+
+CLASS LIST.
+
+I.
+
+   OLD CAT.
+   OLD HEN.
+   POLAR STAR.
+   SIMPLE SUSAN.
+   WHITE SUGAR.
+
+II.
+
+   BRADSHAW OF THE FUTURE.
+   T. R.
+
+III.
+
+   ALGERNON BRAY.
+   DINAH MITE.
+   G. S. C.
+   JANE E.
+   J. D. W.
+   MAGPIE.
+   S. S. G.
+   TOKIO.
+
+
+§ 2. CHANGE OF DAY.
+
+I must postpone, _sine die_, the geographical problem--partly because I
+have not yet received the statistics I am hoping for, and partly because
+I am myself so entirely puzzled by it; and when an examiner is himself
+dimly hovering between a second class and a third how is he to decide
+the position of others?
+
+
+§ 3. THE SONS' AGES.
+
+_Problem._--"At first, two of the ages are together equal to the third.
+A few years afterwards, two of them are together double of the third.
+When the number of years since the first occasion is two-thirds of the
+sum of the ages on that occasion, one age is 21. What are the other two?
+
+_Answer._--"15 and 18."
+
+       *       *       *       *       *
+
+_Solution._--Let the ages at first be _x_, _y_, (_x_ + _y_). Now, if _a_
++ _b_ = 2_c_, then (_a_-_n_) + (_b_-_n_) = 2(_c_-_n_), whatever be the
+value of _n_. Hence the second relationship, if _ever_ true, was
+_always_ true. Hence it was true at first. But it cannot be true that
+_x_ and _y_ are together double of (_x_ + _y_). Hence it must be true of
+(_x_ + _y_), together with _x_ or _y_; and it does not matter which we
+take. We assume, then, (_x_ + _y_) + _x_ = 2_y_; _i.e._ _y_ = 2_x_.
+Hence the three ages were, at first, _x_, 2_x_, 3_x_; and the number of
+years, since that time is two-thirds of 6_x_, _i.e._ is 4_x_. Hence the
+present ages are 5_x_, 6_x_, 7_x_. The ages are clearly _integers_,
+since this is only "the year when one of my sons comes of age." Hence
+7_x_ = 21, _x_ = 3, and the other ages are 15, 18.
+
+       *       *       *       *       *
+
+Eighteen answers have been received. One of the writers merely asserts
+that the first occasion was 12 years ago, that the ages were then 9, 6,
+and 3; and that on the second occasion they were 14, 11, and 8! As a
+Roman father, I _ought_ to withhold the name of the rash writer; but
+respect for age makes me break the rule: it is THREE SCORE AND TEN. JANE
+E. also asserts that the ages at first were 9, 6, 3: then she calculates
+the present ages, leaving the _second_ occasion unnoticed. OLD HEN is
+nearly as bad; she "tried various numbers till I found one that fitted
+_all_ the conditions"; but merely scratching up the earth, and pecking
+about, is _not_ the way to solve a problem, oh venerable bird! And close
+after OLD HEN prowls, with hungry eyes, OLD CAT, who calmly assumes, to
+begin with, that the son who comes of age is the _eldest_. Eat your
+bird, Puss, for you will get nothing from me!
+
+There are yet two zeroes to dispose of. MINERVA assumes that, on _every_
+occasion, a son comes of age; and that it is only such a son who is
+"tipped with gold." Is it wise thus to interpret "now, my boys,
+calculate your ages, and you shall have the money"? BRADSHAW OF THE
+FUTURE says "let" the ages at first be 9, 6, 3, then assumes that the
+second occasion was 6 years afterwards, and on these baseless
+assumptions brings out the right answers. Guide _future_ travellers, an
+thou wilt: thou art no Bradshaw for _this_ Age!
+
+Of those who win honours, the merely "honourable" are two. DINAH MITE
+ascertains (rightly) the relationship between the three ages at first,
+but then _assumes_ one of them to be "6," thus making the rest of her
+solution tentative. M. F. C. does the algebra all right up to the
+conclusion that the present ages are 5_z_, 6_z_, and 7_z_; it then
+assumes, without giving any reason, that 7_z_ = 21.
+
+Of the more honourable, DELTA attempts a novelty--to discover _which_
+son comes of age by elimination: it assumes, successively, that it is
+the middle one, and that it is the youngest; and in each case it
+_apparently_ brings out an absurdity. Still, as the proof contains the
+following bit of algebra, "63 = 7_x_ + 4_y_; [** therefore] 21 = _x_ + 4
+sevenths of _y_," I trust it will admit that its proof is not _quite_
+conclusive. The rest of its work is good. MAGPIE betrays the deplorable
+tendency of her tribe--to appropriate any stray conclusion she comes
+across, without having any _strict_ logical right to it. Assuming _A_,
+_B_, _C_, as the ages at first, and _D_ as the number of the years that
+have elapsed since then, she finds (rightly) the 3 equations, 2_A_ =
+_B_, _C_ = _B_ +

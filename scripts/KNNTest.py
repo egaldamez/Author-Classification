@@ -1,6 +1,5 @@
 import Parser
 import numpy
-
 def cross_validate_knn(V,K):
    
     from sklearn.feature_extraction.text import TfidfVectorizer,CountVectorizer
@@ -12,7 +11,7 @@ def cross_validate_knn(V,K):
     author_target_map = Parser.map_author_value(filenames) # maps authors to integer values
     
     #bag of words representation
-    #count_vect = CountVectorizer(ngram_range=(2,3))
+##    count_vect = CountVectorizer()
     
     # term frequency–inverse document frequency
     tfid_vect = TfidfVectorizer()
@@ -23,17 +22,15 @@ def cross_validate_knn(V,K):
     print('Vectorizing Files\n');
     
     #SparseMatrix from Bag-of-Words
-    #FILENAMES = count_vect.fit_transform(Parser.cat_data(filenames))
+##    FILENAMES = count_vect.fit_transform(Parser.cat_data(filenames))
     
     #SparseMatrix from Tf_IDF
     FILENAMES = tfid_vect.fit_transform(Parser.cat_data(filenames))
     
     n_samples,n_features = FILENAMES.shape
-    print("Matrix Shape: ",n_samples,"x",n_features)
     kf = cross_validation.KFold(n_samples,V)
     validationAccuracy = [];
-    trainAccuracy = []
-    k = 54;
+    k = 1;
     for train_index,test_index in kf:
         ValidationSet = FILENAMES[test_index]
         TrainSet = FILENAMES[train_index]
@@ -49,18 +46,13 @@ def cross_validate_knn(V,K):
         clf.Train(TrainSet, TrainTarget)
     
         predictions = clf.Predict(ValidationSet )
-        train_predictions = clf.Predict(TrainSet)
         va = numpy.mean(predictions == ValidationTarget)
-        ta = numpy.mean(train_predictions == TrainTarget)
         validationAccuracy.append(va);
-        trainAccuracy.append(ta);
-        print("\nBeta Accuracy of KNN Iter# ",k," Result: ",va)
-        print("Train Accuracy of KNN Iter# ",k," Result: ",ta)
+        print("Beta Accuracy of KNN Iter# ",k," Result: ",va)
         k = k+1
-    return validationAccuracy, trainAccuracy;
+    return validationAccuracy;
 
-VA = cross_validate_knn(5,1)
-print("\nMean Accuracy: ", numpy.mean(VA[0]))
-print("Mean Train Accuracy: ", numpy.mean(VA[1]))
-
-
+# Set to run with multiple values for k
+for i in range(1,6):
+    VA = cross_validate_knn(5,i)
+    print("Mean (CV) Accuracy K={}: ".format(i), numpy.mean(VA))

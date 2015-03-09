@@ -13,8 +13,9 @@ from DataInitializer import data_directory_read, shuffle_data, split_data
 from sklearn.feature_extraction.text import CountVectorizer
 import numpy
 
-
-DATA_DIRECTORY  = '..\\filtereddata'    # ASSUMING THE DATA IS IN THE SAME RELATIVE PATH FOR EVERYONE
+# ASSUMING THE DATA IS IN THE SAME RELATIVE PATH FOR EVERYONE
+##DATA_DIRECTORY  = '..\\filtereddata'      # Uses filtered data
+DATA_DIRECTORY  = '..\\chunkdata'        # Uses chunked data
 
 TRAIN_SPARSE = None
 TEST_SPARSE = None

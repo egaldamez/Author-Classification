@@ -1,0 +1,161 @@
+easily soluble by
+Arithmetic only; and, when this is the case, I hold that it is bad
+workmanship to use the more complex method. I have not, this time, given
+more credit to arithmetical solutions; but in future problems I shall
+(other things being equal) give the highest marks to those who use the
+simplest machinery. I have put into Class I. those whose answers seemed
+specially short and neat, and into Class III. those that seemed
+specially long or clumsy. Of this last set, A. C. M., FURZE-BUSH, JAMES,
+PARTRIDGE, R. W., and WAITING FOR THE TRAIN, have sent long wandering
+solutions, the substitutions having no definite method, but seeming to
+have been made to see what would come of it. CHILPOME and DUBLIN BOY
+omit some of the working. ARVON MARLBOROUGH BOY only finds the weight of
+_one_ sack.
+
+
+CLASS LIST
+
+I.
+
+   B. E. D.
+   C. H.
+   CONSTANCE JOHNSON.
+   GREYSTEAD.
+   GUY.
+   HOOPOE.
+   J. F. A.
+   M. A. H.
+   NUMBER FIVE.
+   PEDRO.
+   R. E. X.
+   SEVEN OLD MEN.
+   VIS INERTIÆ.
+   WILLY B.
+   YAHOO.
+
+II.
+
+   AMERICAN SUBSCRIBER.
+   AN APPRECIATIVE SCHOOLMA'AM.
+   AYR.
+   BRADSHAW OF THE FUTURE.
+   CHEAM.
+   C. M. G.
+   DINAH MITE.
+   DUCKWING.
+   E. C. M.
+   E. N. Lowry.
+   ERA.
+   EUROCLYDON.
+   F. H. W.
+   FIFEE.
+   G. E. B.
+   HARLEQUIN.
+   HAWTHORN.
+   HOUGH GREEN.
+   J. A. B.
+   JACK TAR.
+   J. B. B.
+   KGOVJNI.
+   LAND LUBBER.
+   L. D.
+   MAGPIE.
+   MARY.
+   MHRUXI.
+   MINNIE.
+   MONEY-SPINNER.
+   NAIRAM.
+   OLD CAT.
+   POLICHINELLE.
+   SIMPLE SUSAN.
+   S. S. G.
+   THISBE.
+   VERENA.
+   WAMBA.
+   WOLFE.
+   WYKEHAMICUS.
+   Y. M. A. H.
+
+III.
+
+   A. C. M.
+   ARVON MARLBOROUGH BOY.
+   CHILPOME.
+   DUBLIN BOY.
+   FURZE-BUSH.
+   JAMES.
+   PARTRIDGE.
+   R. W.
+   WAITING FOR THE TRAIN.
+
+
+ANSWERS TO KNOT V.
+
+_Problem._--To mark pictures, giving 3 x's to 2 or 3, 2 to 4 or 5, and 1
+to 9 or 10; also giving 3 o's to 1 or 2, 2 to 3 or 4 and 1 to 8 or 9; so
+as to mark the smallest possible number of pictures, and to give them
+the largest possible number of marks.
+
+_Answer._--10 pictures; 29 marks; arranged thus:--
+
+   x  x  x  x  x  x  x  x  x  o
+   x  x  x  x  x     o  o  o  o
+   x  x  o  o  o  o  o  o  o  o
+
+_Solution._--By giving all the x's possible, putting into brackets the
+optional ones, we get 10 pictures marked thus:--
+
+   x  x  x  x  x  x  x  x  x (x)
+   x  x  x  x (x)
+   x  x (x)
+
+By then assigning o's in the same way, beginning at the other end, we
+get 9 pictures marked thus:--
+
+                        (o) o
+                  (o) o  o  o
+   (o) o  o  o  o  o  o  o  o
+
+All we have now to do is to run these two wedges as close together as
+they will go, so as to get the minimum number of pictures----erasing
+optional marks where by so doing we can run them closer, but otherwise
+letting them stand. There are 10 necessary marks in the 1st row, and in
+the 3rd; but only 7 in the 2nd. Hence we erase all optional marks in the
+1st and 3rd rows, but let them stand in the 2nd.
+
+       *       *       *       *       *
+
+Twenty-two answers have been received. Of these 11 give no working; so,
+in accordance with what I announced in my last review of answers, I
+leave them unnamed, merely mentioning that 5 are right and 6 wrong.
+
+Of the eleven answers with which some working is supplied, 3 are wrong.
+C. H. begins with the rash assertion that under the given conditions
+"the sum is impossible. For," he or she adds (these initialed
+correspondents are dismally vague beings to deal with: perhaps "it"
+would be a better pronoun), "10 is the least possible number of
+pictures" (granted): "therefore we must either give 2 x's to 6, or 2 o's
+to 5." Why "must," oh alphabetical phantom? It is nowhere ordained that
+every picture "must" have 3 marks! FIFEE sends a folio page of solution,
+which deserved a better fate: she offers 3 answers, in each of which 10
+pictures are marked, with 30 marks; in one she gives 2 x's to 6
+pictures; in another to 7; in the 3rd she gives 2 o's to 5; thus in
+every case ignoring the conditions. (I pause to remark that the
+condition "2 x's to 4 or 5 pictures" can only mean "_either_ to 4 _or
+else_ to 5": if, as one competitor holds, it might mean _any_ number not
+less than 4, the words "_or_ 5" would be superfluous.) I. E. A. (I am
+happy to say that none of these bloodless phantoms appear this time in
+the class-list. Is it IDEA with the "D" left out?) gives 2 x's to 6
+pictures. She then takes me to task for using the word "ought" instead
+of "nought." No doubt, to one who thus rebels against the rules laid
+down for her guidance, the word must be distasteful. But does not I. E.
+A. remember the parallel case of "adder"? That creature was originally
+"a nadder": then the two words took to bandying the poor "n" backwards
+and forwards like a shuttlecock, the final state of the game being "an
+adder." May not "a nought" have similarly become "an ought"? Anyhow,
+"oughts and crosses" is a very old game. I don't think I ever heard it
+called "noughts and crosses."
+
+In the following Class-list, I hope the solitary occupant of III. will
+sheathe her claws when she hears how narrow an escape she has had of not
+being named at all. Her account of 

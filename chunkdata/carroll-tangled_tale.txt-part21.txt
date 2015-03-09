@@ -1,0 +1,127 @@
+the process by which she got the
+answer is so meagre that, like the nursery tale of "Jack-a-Minory" (I
+trust I. E. A. will be merciful to the spelling), it is scarcely to be
+distinguished from "zero."
+
+
+CLASS LIST.
+
+I.
+
+   GUY.
+   OLD CAT.
+   SEA-BREEZE.
+
+II.
+
+   AYR.
+   BRADSHAW OF THE FUTURE.
+   F. LEE.
+   H. VERNON.
+
+III.
+
+CAT.
+
+
+ANSWERS TO KNOT VI.
+
+_Problem 1._--_A_ and _B_ began the year with only 1,000_l._ a-piece.
+They borrowed nought; they stole nought. On the next New-Year's Day they
+had 60,000_l._ between them. How did they do it?
+
+_Solution._--They went that day to the Bank of England. _A_ stood in
+front of it, while _B_ went round and stood behind it.
+
+       *       *       *       *       *
+
+Two answers have been received, both worthy of much honour. ADDLEPATE
+makes them borrow "0" and steal "0," and uses both cyphers by putting
+them at the right-hand end of the 1,000_l._, thus producing 100,000_l._,
+which is well over the mark. But (or to express it in Latin) AT SPES
+INFRACTA has solved it even more ingeniously: with the first cypher she
+turns the "1" of the 1,000_l._ into a "9," and adds the result to the
+original sum, thus getting 10,000_l._: and in this, by means of the
+other "0," she turns the "1" into a "6," thus hitting the exact
+60,000_l._
+
+
+CLASS LIST
+
+I.
+
+AT SPES INFRACTA.
+
+II.
+
+ADDLEPATE.
+
+       *       *       *       *       *
+
+_Problem 2._--_L_ makes 5 scarves, while _M_ makes 2: _Z_ makes 4 while
+_L_ makes 3. Five scarves of _Z_'s weigh one of _L_'s; 5 of _M_'s weigh
+3 of _Z_'s. One of _M_'s is as warm as 4 of _Z_'s: and one of _L_'s as
+warm as 3 of _M_'s. Which is best, giving equal weight in the result to
+rapidity of work, lightness, and warmth?
+
+_Answer._--The order is _M_, _L_, _Z_.
+
+       *       *       *       *       *
+
+_Solution._--As to rapidity (other things being constant) _L_'s merit is
+to _M_'s in the ratio of 5 to 2: _Z_'s to _L_'s in the ratio of 4 to 3.
+In order to get one set of 3 numbers fulfilling these conditions, it is
+perhaps simplest to take the one that occurs _twice_ as unity, and
+reduce the others to fractions: this gives, for _L_, _M_, and _Z_, the
+marks 1, 2/5, 4/3. In estimating for _lightness_, we observe that the
+greater the weight, the less the merit, so that _Z_'s merit is to _L_'s
+as 5 to 1. Thus the marks for _lightness_ are 1/5, 5/3, 1. And
+similarly, the marks for warmth are 3, 1, 1/4. To get the total result,
+we must _multiply_ _L_'s 3 marks together, and do the same for _M_ and
+for _Z_. The final numbers are 1 × 1/5 × 3, 2/5 × 5/3 × 1, 4/3 × 1 ×
+1/4; _i.e._ 3/5, 2/3, 1/3; _i.e._ multiplying throughout by 15 (which
+will not alter the proportion), 9, 10, 5; showing the order of merit to
+be _M_, _L_, _Z_.
+
+       *       *       *       *       *
+
+Twenty-nine answers have been received, of which five are right, and
+twenty-four wrong. These hapless ones have all (with three exceptions)
+fallen into the error of _adding_ the proportional numbers together, for
+each candidate, instead of _multiplying_. _Why_ the latter is right,
+rather than the former, is fully proved in text-books, so I will not
+occupy space by stating it here: but it can be _illustrated_ very easily
+by the case of length, breadth, and depth. Suppose _A_ and _B_ are rival
+diggers of rectangular tanks: the amount of work done is evidently
+measured by the number of _cubical feet_ dug out. Let _A_ dig a tank 10
+feet long, 10 wide, 2 deep: let _B_ dig one 6 feet long, 5 wide, 10
+deep. The cubical contents are 200, 300; _i.e._ _B_ is best digger in
+the ratio of 3 to 2. Now try marking for length, width, and depth,
+separately; giving a maximum mark of 10 to the best in each contest, and
+then _adding_ the results!
+
+Of the twenty-four malefactors, one gives no working, and so has no real
+claim to be named; but I break the rule for once, in deference to its
+success in Problem 1: he, she, or it, is ADDLEPATE. The other
+twenty-three may be divided into five groups.
+
+First and worst are, I take it, those who put the rightful winner
+_last_; arranging them as "Lolo, Zuzu, Mimi." The names of these
+desperate wrong-doers are AYR, BRADSHAW OF THE FUTURE, FURZE-BUSH and
+POLLUX (who send a joint answer), GREYSTEAD, GUY, OLD HEN, and SIMPLE
+SUSAN. The latter was _once_ best of all; the Old Hen has taken
+advantage of her simplicity, and beguiled her with the chaff which was
+the bane of her own chickenhood.
+
+Secondly, I point the finger of scorn at those who have put the worst
+candidate at the top; arranging them as "Zuzu, Mimi, Lolo." They are
+GRAECIA, M. M., OLD CAT, and R. E. X. "'Tis Greece, but----."
+
+The third set have avoided both these enormities, and have even
+succeeded in putting the worst last, their answer being "Lolo, Mimi,
+Zuzu." Their names are AYR (who also appears among the "quite too too"),
+CLIFTON C., F. B., FIFEE, GRIG, JANET, and MRS. SAIREY GAMP. F. B. has
+not fallen into the common error; she _multiplies_ together the
+proportionate numbers she gets, but in getting them she goes wrong, by
+reckoning warmth as a _de_-merit. Possibly she is "Freshly Burnt," or
+comes "From Bombay." JANET and MRS. S

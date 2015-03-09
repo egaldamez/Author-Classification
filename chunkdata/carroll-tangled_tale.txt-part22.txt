@@ -1,0 +1,103 @@
+AIREY GAMP have also avoided this
+error: the method they have adopted is shrouded in mystery--I scarcely
+feel competent to criticize it. MRS. GAMP says "if Zuzu makes 4 while
+Lolo makes 3, Zuzu makes 6 while Lolo makes 5 (bad reasoning), while
+Mimi makes 2." From this she concludes "therefore Zuzu excels in speed
+by 1" (_i.e._ when compared with Lolo; but what about Mimi?). She then
+compares the 3 kinds of excellence, measured on this mystic scale. JANET
+takes the statement, that "Lolo makes 5 while Mimi makes 2," to prove
+that "Lolo makes 3 while Mimi makes 1 and Zuzu 4" (worse reasoning than
+MRS. GAMP'S), and thence concludes that "Zuzu excels in speed by 1/8"!
+JANET should have been ADELINE, "mystery of mysteries!"
+
+The fourth set actually put Mimi at the top, arranging them as "Mimi,
+Zuzu, Lolo." They are MARQUIS AND CO., MARTREB, S. B. B. (first initial
+scarcely legible: _may_ be meant for "J"), and STANZA.
+
+The fifth set consist of AN ANCIENT FISH and CAMEL. These ill-assorted
+comrades, by dint of foot and fin, have scrambled into the right answer,
+but, as their method is wrong, of course it counts for nothing. Also AN
+ANCIENT FISH has very ancient and fishlike ideas as to _how_ numbers
+represent merit: she says "Lolo gains 2-1/2 on Mimi." Two and a half
+_what_? Fish, fish, art thou in thy duty?
+
+Of the five winners I put BALBUS and THE ELDER TRAVELLER slightly below
+the other three--BALBUS for defective reasoning, the other for scanty
+working. BALBUS gives two reasons for saying that _addition_ of marks is
+_not_ the right method, and then adds "it follows that the decision must
+be made by _multiplying_ the marks together." This is hardly more
+logical than to say "This is not Spring: _therefore_ it must be Autumn."
+
+
+CLASS LIST.
+
+I.
+
+   DINAH MITE.
+   E. B. D. L.
+   JORAM.
+
+II.
+
+   BALBUS.
+   THE ELDER TRAVELLER.
+
+       *       *       *       *       *
+
+With regard to Knot V., I beg to express to VIS INERTIÆ and to any
+others who, like her, understood the condition to be that _every_ marked
+picture must have _three_ marks, my sincere regret that the unfortunate
+phrase "_fill_ the columns with oughts and crosses" should have caused
+them to waste so much time and trouble. I can only repeat that a
+_literal_ interpretation of "fill" would seem to _me_ to require that
+_every_ picture in the gallery should be marked. VIS INERTIÆ would have
+been in the First Class if she had sent in the solution she now offers.
+
+
+ANSWERS TO KNOT VII.
+
+_Problem._--Given that one glass of lemonade, 3 sandwiches, and 7
+biscuits, cost 1_s._ 2_d._; and that one glass of lemonade, 4
+sandwiches, and 10 biscuits, cost 1_s._ 5_d._: find the cost of (1) a
+glass of lemonade, a sandwich, and a biscuit; and (2) 2 glasses of
+lemonade, 3 sandwiches, and 5 biscuits.
+
+_Answer._--(1) 8_d._; (2) 1_s._ 7_d._
+
+_Solution._--This is best treated algebraically. Let _x_ = the cost (in
+pence) of a glass of lemonade, _y_ of a sandwich, and _z_ of a biscuit.
+Then we have _x_ + 3_y_ + 7_z_ = 14, and _x_ + 4_y_ + 10_z_ = 17. And we
+require the values of _x_ + _y_ + _z_, and of 2_x_ + 3_y_ + 5_z_. Now,
+from _two_ equations only, we cannot find, _separately_, the values of
+_three_ unknowns: certain _combinations_ of them may, however, be found.
+Also we know that we can, by the help of the given equations, eliminate
+2 of the 3 unknowns from the quantity whose value is required, which
+will then contain one only. If, then, the required value is
+ascertainable at all, it can only be by the 3rd unknown vanishing of
+itself: otherwise the problem is impossible.
+
+Let us then eliminate lemonade and sandwiches, and reduce everything to
+biscuits--a state of things even more depressing than "if all the world
+were apple-pie"--by subtracting the 1st equation from the 2nd, which
+eliminates lemonade, and gives _y_ + 3_z_ = 3, or _y_ = 3-3_z_; and then
+substituting this value of _y_ in the 1st, which gives _x_-2_z_ = 5,
+_i.e._ _x_ = 5 + 2_z_. Now if we substitute these values of _x_, _y_, in
+the quantities whose values are required, the first becomes (5 + 2_z_) +
+(3-3_z_) + _z_, _i.e._ 8: and the second becomes 2(5 + 2_z_) + 3(3-3_z_)
++ 5_z_, _i.e._ 19. Hence the answers are (1) 8_d._, (2) 1_s._ 7_d._
+
+       *       *       *       *       *
+
+The above is a _universal_ method: that is, it is absolutely certain
+either to produce the answer, or to prove that no answer is possible.
+The question may also be solved by combining the quantities whose values
+are given, so as to form those whose values are required. This is merely
+a matter of ingenuity and good luck: and as it _may_ fail, even when the
+thing is possible, and is of no use in proving it _im_possible, I cannot
+rank this method as equal in value with the other. Even when it
+succeeds, it may prove a very tedious process. Suppose the 26
+competitors, who have sent in what I may call _accidental_ solutions,
+had had a question to deal with where every number contained 8 or 10
+digits! I suspect it would have been a case of "silvered is the raven
+hair" (see "Patience") before any solution would have been hit on by
+the most ingenious of them.

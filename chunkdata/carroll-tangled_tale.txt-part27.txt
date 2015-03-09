@@ -1,0 +1,113 @@
+ very
+trenchant expressions which you are accustomed to indulge in when
+criticising the answer. That such a tone must not be" ("be not"?)
+"agreeable to the persons concerned who have made mistakes may possibly
+have no great weight with you, but I hope you will feel that it would be
+as well not to employ it, _unless you are quite certain of being correct
+yourself_." The only instances the writer gives of the "trenchant
+expressions" are "hapless" and "malefactors." I beg to assure him (and
+any others who may need the assurance: I trust there are none) that all
+such words have been used in jest, and with no idea that they could
+possibly annoy any one, and that I sincerely regret any annoyance I may
+have thus inadvertently given. May I hope that in future they will
+recognise the distinction between severe language used in sober earnest,
+and the "words of unmeant bitterness," which Coleridge has alluded to in
+that lovely passage beginning "A little child, a limber elf"? If the
+writer will refer to that passage, or to the preface to "Fire, Famine,
+and Slaughter," he will find the distinction, for which I plead, far
+better drawn out than I could hope to do in any words of mine.
+
+The writer's insinuation that I care not how much annoyance I give to my
+readers I think it best to pass over in silence; but to his concluding
+remark I must entirely demur. I hold that to use language likely to
+annoy any of my correspondents would not be in the least justified by
+the plea that I was "quite certain of being correct." I trust that the
+knot-untiers and I are not on such terms as those!
+
+I beg to thank _G. B._ for the offer of a puzzle--which, however, is too
+like the old one "Make four 9's into 100."
+
+
+ANSWERS TO KNOT VIII.
+
+§ 1. THE PIGS.
+
+_Problem._--Place twenty-four pigs in four sties so that, as you go
+round and round, you may always find the number in each sty nearer to
+ten than the number in the last.
+
+_Answer._--Place 8 pigs in the first sty, 10 in the second, nothing in
+the third, and 6 in the fourth: 10 is nearer ten than 8; nothing is
+nearer ten than 10; 6 is nearer ten than nothing; and 8 is nearer ten
+than 6.
+
+       *       *       *       *       *
+
+This problem is noticed by only two correspondents. BALBUS says "it
+certainly cannot be solved mathematically, nor do I see how to solve it
+by any verbal quibble." NOLENS VOLENS makes Her Radiancy change the
+direction of going round; and even then is obliged to add "the pigs must
+be carried in front of her"!
+
+§ 2. THE GRURMSTIPTHS.
+
+_Problem._--Omnibuses start from a certain point, both ways, every 15
+minutes. A traveller, starting on foot along with one of them, meets
+one in 12-1/2 minutes: when will he be overtaken by one?
+
+_Answer._--In 6-1/4 minutes.
+
+       *       *       *       *       *
+
+_Solution._--Let "_a_" be the distance an omnibus goes in 15 minutes,
+and "_x_" the distance from the starting-point to where the traveller is
+overtaken. Since the omnibus met is due at the starting-point in 2-1/2
+minutes, it goes in that time as far as the traveller walks in 12-1/2;
+_i.e._ it goes 5 times as fast. Now the overtaking omnibus is "_a_"
+behind the traveller when he starts, and therefore goes "_a_ + _x_"
+while he goes "_x_." Hence _a_ + _x_ = 5_x_; _i.e._ 4_x_ = _a_, and _x_
+= _a_/4. This distance would be traversed by an omnibus in 15/4 minutes,
+and therefore by the traveller in 5 × 15/4. Hence he is overtaken in
+18-3/4 minutes after starting, _i.e._ in 6-1/4 minutes after meeting the
+omnibus.
+
+       *       *       *       *       *
+
+Four answers have been received, of which two are wrong. DINAH MITE
+rightly states that the overtaking omnibus reached the point where they
+met the other omnibus 5 minutes after they left, but wrongly concludes
+that, going 5 times as fast, it would overtake them in another minute.
+The travellers are 5-minutes-walk ahead of the omnibus, and must walk
+1-4th of this distance farther before the omnibus overtakes them, which
+will be 1-5th of the distance traversed by the omnibus in the same time:
+this will require 1-1/4 minutes more. NOLENS VOLENS tries it by a
+process like "Achilles and the Tortoise." He rightly states that, when
+the overtaking omnibus leaves the gate, the travellers are 1-5th of
+"_a_" ahead, and that it will take the omnibus 3 minutes to traverse
+this distance; "during which time" the travellers, he tells us, go
+1-15th of "_a_" (this should be 1-25th). The travellers being now 1-15th
+of "_a_" ahead, he concludes that the work remaining to be done is for
+the travellers to go 1-60th of "_a_," while the omnibus goes l-12th. The
+_principle_ is correct, and might have been applied earlier.
+
+
+CLASS LIST.
+
+I.
+
+   BALBUS.
+   DELTA.
+
+
+ANSWERS TO KNOT IX.
+
+
+§ 1. THE BUCKETS.
+
+_Problem._--Lardner states that a solid, immersed in a fluid, displaces
+an amount equal to itself in bulk. How can this be true of a small
+bucket floating in a larger one?
+
+_Solution._--Lardner means, by "displaces," "occupies a space which
+might be filled with water without any change in the surroundings." If
+the portion of the floating bucket, which is above the water

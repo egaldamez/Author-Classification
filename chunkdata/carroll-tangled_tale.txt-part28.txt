@@ -1,0 +1,114 @@
+, could be
+annihilated, and the rest of it transformed into water, the surrounding
+water would not change its position: which agrees with Lardner's
+statement.
+
+       *       *       *       *       *
+
+Five answers have been received, none of which explains the difficulty
+arising from the well-known fact that a floating body is the same weight
+as the displaced fluid. HECLA says that "only that portion of the
+smaller bucket which descends below the original level of the water can
+be properly said to be immersed, and only an equal bulk of water is
+displaced." Hence, according to HECLA, a solid, whose weight was equal
+to that of an equal bulk of water, would not float till the whole of it
+was below "the original level" of the water: but, as a matter of fact,
+it would float as soon as it was all under water. MAGPIE says the
+fallacy is "the assumption that one body can displace another from a
+place where it isn't," and that Lardner's assertion is incorrect, except
+when the containing vessel "was originally full to the brim." But the
+question of floating depends on the present state of things, not on past
+history. OLD KING COLE takes the same view as HECLA. TYMPANUM and VINDEX
+assume that "displaced" means "raised above its original level," and
+merely explain how it comes to pass that the water, so raised, is less
+in bulk than the immersed portion of bucket, and thus land
+themselves--or rather set themselves floating--in the same boat as
+HECLA.
+
+I regret that there is no Class-list to publish for this Problem.
+
+       *       *       *       *       *
+
+
+§ 2. BALBUS' ESSAY.
+
+_Problem._--Balbus states that if a certain solid be immersed in a
+certain vessel of water, the water will rise through a series of
+distances, two inches, one inch, half an inch, &c., which series has no
+end. He concludes that the water will rise without limit. Is this true?
+
+_Solution._--No. This series can never reach 4 inches, since, however
+many terms we take, we are always short of 4 inches by an amount equal
+to the last term taken.
+
+       *       *       *       *       *
+
+Three answers have been received--but only two seem to me worthy of
+honours.
+
+TYMPANUM says that the statement about the stick "is merely a blind, to
+which the old answer may well be applied, _solvitur ambulando_, or
+rather _mergendo_." I trust TYMPANUM will not test this in his own
+person, by taking the place of the man in Balbus' Essay! He would
+infallibly be drowned.
+
+OLD KING COLE rightly points out that the series, 2, 1, &c., is a
+decreasing Geometrical Progression: while VINDEX rightly identifies the
+fallacy as that of "Achilles and the Tortoise."
+
+
+CLASS LIST.
+
+I.
+
+   OLD KING COLE.
+   VINDEX.
+
+       *       *       *       *       *
+
+
+§ 3. THE GARDEN.
+
+_Problem._--An oblong garden, half a yard longer than wide, consists
+entirely of a gravel-walk, spirally arranged, a yard wide and 3,630
+yards long. Find the dimensions of the garden.
+
+_Answer._--60, 60-1/2.
+
+_Solution._--The number of yards and fractions of a yard traversed in
+walking along a straight piece of walk, is evidently the same as the
+number of square-yards and fractions of a square-yard, contained in that
+piece of walk: and the distance, traversed in passing through a
+square-yard at a corner, is evidently a yard. Hence the area of the
+garden is 3,630 square-yards: _i.e._, if _x_ be the width, _x_ (_x_ +
+1/2) = 3,630. Solving this Quadratic, we find _x_ = 60. Hence the
+dimensions are 60, 60-1/2.
+
+       *       *       *       *       *
+
+Twelve answers have been received--seven right and five wrong.
+
+C. G. L., NABOB, OLD CROW, and TYMPANUM assume that the number of yards
+in the length of the path is equal to the number of square-yards in the
+garden. This is true, but should have been proved. But each is guilty of
+darker deeds. C. G. L.'s "working" consists of dividing 3,630 by 60.
+Whence came this divisor, oh Segiel? Divination? Or was it a dream? I
+fear this solution is worth nothing. OLD CROW'S is shorter, and so (if
+possible) worth rather less. He says the answer "is at once seen to be
+60 × 60-1/2"! NABOB'S calculation is short, but "as rich as a Nabob" in
+error. He says that the square root of 3,630, multiplied by 2, equals
+the length plus the breadth. That is 60.25 × 2 = 120-1/2. His first
+assertion is only true of a _square_ garden. His second is irrelevant,
+since 60.25 is _not_ the square-root of 3,630! Nay, Bob, this will _not_
+do! TYMPANUM says that, by extracting the square-root of 3,630, we get
+60 yards with a remainder of 30/60, or half-a-yard, which we add so as
+to make the oblong 60 × 60-1/2. This is very terrible: but worse remains
+behind. TYMPANUM proceeds thus:--"But why should there be the half-yard
+at all? Because without it there would be no space at all for flowers.
+By means of it, we find reserved in the very centre a small plot of
+ground, two yards long by half-a-yard wide, the only space not occupied
+by walk." But Balbus expressly said that the walk "used up the whole of
+the area." Oh, TYMPANUM! My tympa is exhausted: my brain is num! I can
+say no more.
+
+HECLA indulges, again and again, in that

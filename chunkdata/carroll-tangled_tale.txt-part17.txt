@@ -1,0 +1,141 @@
+at requires
+only 14. CAIUS and VALENTINE deserve special mention as the only two who
+have supplied genealogies.
+
+
+CLASS LIST.
+
+I.
+
+   BEE.
+   CAIUS.
+   M. M.
+   MATTHEW MATTICKS.
+   OLD CAT.
+   VALENTINE.
+
+II.
+
+   BOG-OAK.
+   BRADSHAW OF THE FUTURE.
+
+III.
+
+   SEA-BREEZE.
+
+
+§ 2. THE LODGINGS.
+
+_Problem._--"A Square has 20 doors on each side, which contains 21 equal
+parts. They are numbered all round, beginning at one corner. From which
+of the four, Nos. 9, 25, 52, 73, is the sum of the distances, to the
+other three, least?"
+
+_Answer._--"From No. 9."
+
+       *       *       *       *       *
+
+[Illustration]
+
+Let A be No. 9, B No. 25, C No. 52, and D No. 73.
+
+   Then AB = [** sqrt](12^{2} + 5^{2}) = [** sqrt]169 = 13;
+   AC = 21;
+   AD = [** sqrt](9^{2} + 8^{2}) = [** sqrt]145 = 12 +
+   (N.B. _i.e._ "between 12 and 13.")
+   BC = [** sqrt](16^{2} + 12^{2}) = [** sqrt]400 = 20;
+   BD = [** sqrt](3^{2} + 21^{2}) = [** sqrt]450 = 21+;
+   CD = [** sqrt](9^{2} + 13^{2}) = [** sqrt]250 = 15+;
+
+
+Hence sum of distances from A is between 46 and 47; from B, between 54
+and 55; from C, between 56 and 57; from D, between 48 and 51. (Why not
+"between 48 and 49"? Make this out for yourselves.) Hence the sum is
+least for A.
+
+       *       *       *       *       *
+
+Twenty-five solutions have been received. Of these, 15 must be marked
+"0," 5 are partly right, and 5 right. Of the 15, I may dismiss
+ALPHABETICAL PHANTOM, BOG-OAK, DINAH MITE, FIFEE, GALANTHUS NIVALIS
+MAJOR (I fear the cold spring has blighted our SNOWDROP), GUY, H.M.S.
+PINAFORE, JANET, and VALENTINE with the simple remark that they insist
+on the unfortunate lodgers _keeping to the pavement_. (I used the words
+"crossed to Number Seventy-three" for the special purpose of showing
+that _short cuts_ were possible.) SEA-BREEZE does the same, and adds
+that "the result would be the same" even if they crossed the Square, but
+gives no proof of this. M. M. draws a diagram, and says that No. 9 is
+the house, "as the diagram shows." I cannot see _how_ it does so. OLD
+CAT assumes that the house _must_ be No. 9 or No. 73. She does not
+explain how she estimates the distances. Bee's Arithmetic is faulty: she
+makes [** sqrt]169 + [** sqrt]442 + [** sqrt]130 = 741. (I suppose you
+mean [** sqrt]741, which would be a little nearer the truth. But roots
+cannot be added in this manner. Do you think [** sqrt]9 + [** sqrt]16 is
+25, or even [** sqrt]25?) But AYR'S state is more perilous still: she
+draws illogical conclusions with a frightful calmness. After pointing
+out (rightly) that AC is less than BD she says, "therefore the nearest
+house to the other three must be A or C." And again, after pointing out
+(rightly) that B and D are both within the half-square containing A,
+she says "therefore" AB + AD must be less than BC + CD. (There is no
+logical force in either "therefore." For the first, try Nos. 1, 21, 60,
+70: this will make your premiss true, and your conclusion false.
+Similarly, for the second, try Nos. 1, 30, 51, 71.)
+
+Of the five partly-right solutions, RAGS AND TATTERS and MAD HATTER (who
+send one answer between them) make No. 25 6 units from the corner
+instead of 5. CHEAM, E. R. D. L., and MEGGY POTTS leave openings at the
+corners of the Square, which are not in the _data_: moreover CHEAM gives
+values for the distances without any hint that they are only
+_approximations_. CROPHI AND MOPHI make the bold and unfounded
+assumption that there were really 21 houses on each side, instead of 20
+as stated by Balbus. "We may assume," they add, "that the doors of Nos.
+21, 42, 63, 84, are invisible from the centre of the Square"! What is
+there, I wonder, that CROPHI AND MOPHI would _not_ assume?
+
+Of the five who are wholly right, I think BRADSHAW OF THE FUTURE, CAIUS,
+CLIFTON C., and MARTREB deserve special praise for their full
+_analytical_ solutions. MATTHEW MATTICKS picks out No. 9, and proves it
+to be the right house in two ways, very neatly and ingeniously, but
+_why_ he picks it out does not appear. It is an excellent _synthetical_
+proof, but lacks the analysis which the other four supply.
+
+
+CLASS LIST.
+
+I.
+
+   BRADSHAW OF THE FUTURE
+   CAIUS.
+   CLIFTON C.
+   MARTREB.
+
+II.
+
+MATTHEW MATTICKS.
+
+III.
+
+   CHEAM.
+   CROPHI AND MOPHI.
+   E. R. D. L.
+   MEGGY POTTS.
+   {RAGS AND TATTERS.
+   {MAD HATTER.
+
+
+A remonstrance has reached me from SCRUTATOR on the subject of KNOT I.,
+which he declares was "no problem at all." "Two questions," he says,
+"are put. To solve one there is no data: the other answers itself." As
+to the first point, SCRUTATOR is mistaken; there _are_ (not "is") data
+sufficient to answer the question. As to the other, it is interesting to
+know that the question "answers itself," and I am sure it does the
+question great credit: still I fear I cannot enter it on the list of
+winners, as this competition is only open to human beings.
+
+
+ANSWERS TO KNOT III.
+
+_Problem._--(1) "Two travellers, starting at the same time, went
+opposite ways round a circular railway. Trains start each way every 15
+minutes, the easterly ones going round in 3 hours, the westerly in 2.
+How many trains did each meet on the wa

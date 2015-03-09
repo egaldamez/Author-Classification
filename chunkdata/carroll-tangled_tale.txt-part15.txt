@@ -1,0 +1,107 @@
+r any other
+epoch) seemed likely to "restore" them--to that peace of mind which had
+once been theirs ere ever these problems had swooped upon them, and
+crushed them with a load of unfathomable mystery!
+
+"It's hardly fair," muttered Hugh, "to give us such a jumble as this to
+work out!"
+
+"Fair?" Clara echoed, bitterly. "Well!"
+
+And to all my readers I can but repeat the last words of gentle Clara--
+
+   FARE-WELL!
+
+
+
+
+APPENDIX.
+
+     "A knot!" said Alice. "Oh, do let me help to undo it!"
+
+
+ANSWERS TO KNOT I.
+
+_Problem._--"Two travellers spend from 3 o'clock till 9 in walking along
+a level road, up a hill, and home again: their pace on the level being 4
+miles an hour, up hill 3, and down hill 6. Find distance walked: also
+(within half an hour) time of reaching top of hill."
+
+_Answer._--"24 miles: half-past 6."
+
+       *       *       *       *       *
+
+_Solution._--A level mile takes 1/4 of an hour, up hill 1/3, down hill
+1/6. Hence to go and return over the same mile, whether on the level or
+on the hill-side, takes 1/2 an hour. Hence in 6 hours they went 12 miles
+out and 12 back. If the 12 miles out had been nearly all level, they
+would have taken a little over 3 hours; if nearly all up hill, a little
+under 4. Hence 3-1/2 hours must be within 1/2 an hour of the time taken
+in reaching the peak; thus, as they started at 3, they got there within
+1/2 an hour of 1/2 past 6.
+
+       *       *       *       *       *
+
+Twenty-seven answers have come in. Of these, 9 are right, 16 partially
+right, and 2 wrong. The 16 give the _distance_ correctly, but they have
+failed to grasp the fact that the top of the hill might have been
+reached at _any_ moment between 6 o'clock and 7.
+
+The two wrong answers are from GERTY VERNON and A NIHILIST. The former
+makes the distance "23 miles," while her revolutionary companion puts it
+at "27." GERTY VERNON says "they had to go 4 miles along the plain, and
+got to the foot of the hill at 4 o'clock." They _might_ have done so, I
+grant; but you have no ground for saying they _did_ so. "It was 7-1/2
+miles to the top of the hill, and they reached that at 1/4 before 7
+o'clock." Here you go wrong in your arithmetic, and I must, however
+reluctantly, bid you farewell. 7-1/2 miles, at 3 miles an hour, would
+_not_ require 2-3/4 hours. A NIHILIST says "Let _x_ denote the whole
+number of miles; _y_ the number of hours to hill-top; [** therefore] 3_y_ =
+number of miles to hill-top, and _x_-3_y_ = number of miles on the other
+side." You bewilder me. The other side of _what_? "Of the hill," you
+say. But then, how did they get home again? However, to accommodate your
+views we will build a new hostelry at the foot of the hill on the
+opposite side, and also assume (what I grant you is _possible_, though
+it is not _necessarily_ true) that there was no level road at all. Even
+then you go wrong.
+
+You say
+
+   "_y_ = 6 - (_x_ - 3_y_)/6, ..... (i);
+
+   _x_/4-1/2 = 6              ..... (ii)."
+
+I grant you (i), but I deny (ii): it rests on the assumption that to go
+_part_ of the time at 3 miles an hour, and the rest at 6 miles an hour,
+comes to the same result as going the _whole_ time at 4-1/2 miles an
+hour. But this would only be true if the "_part_" were an exact _half_,
+i.e., if they went up hill for 3 hours, and down hill for the other 3:
+which they certainly did _not_ do.
+
+The sixteen, who are partially right, are AGNES BAILEY, F. K., FIFEE, G.
+E. B., H. P., KIT, M. E. T., MYSIE, A MOTHER'S SON, NAIRAM, A
+REDRUTHIAN, A SOCIALIST, SPEAR MAIDEN, T. B. C, VIS INERTIÆ, and YAK. Of
+these, F. K., FIFEE, T. B. C, and VIS INERTIÆ do not attempt the second
+part at all. F. K. and H. P. give no working. The rest make particular
+assumptions, such as that there was no level road--that there were 6
+miles of level road--and so on, all leading to _particular_ times being
+fixed for reaching the hill-top. The most curious assumption is that of
+AGNES BAILEY, who says "Let _x_ = number of hours occupied in ascent;
+then _x_/2 = hours occupied in descent; and 4_x_/3 = hours occupied on
+the level." I suppose you were thinking of the relative _rates_, up
+hill and on the level; which we might express by saying that, if they
+went x miles up hill in a certain time, they would go 4_x_/3 miles on
+the level _in the same time_. You have, in fact, assumed that they took
+_the same time_ on the level that they took in ascending the hill. FIFEE
+assumes that, when the aged knight said they had gone "four miles in the
+hour" on the level, he meant that four miles was the _distance_ gone,
+not merely the rate. This would have been--if FIFEE will excuse the
+slang expression--a "sell," ill-suited to the dignity of the hero.
+
+And now "descend, ye classic Nine!" who have solved the whole problem,
+and let me sing your praises. Your names are BLITHE, E. W., L. B., A
+MARLBOROUGH BOY, O. V. L., PUTNEY WALKER, ROSE, SEA BREEZE, SIMPLE
+SUSAN, and MONEY SPINNER. (These last two I count as one, as they send a
+joint answer.) ROSE and SIMPLE SUSAN and CO. do not actually state that
+the hill-top was reached some time between 6 and 7, but, as they have
+clearly grasped the fact that 

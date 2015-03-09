@@ -1,0 +1,81 @@
+
+
+Forty-five answers have come in, of which 44 give, I am happy to say,
+some sort of _working_, and therefore deserve to be mentioned by name,
+and to have their virtues, or vices as the case may be, discussed.
+Thirteen have made assumptions to which they have no right, and so
+cannot figure in the Class-list, even though, in 10 of the 13 cases, the
+answer is right. Of the remaining 28, no less than 26 have sent in
+_accidental_ solutions, and therefore fall short of the highest honours.
+
+I will now discuss individual cases, taking the worst first, as my
+custom is.
+
+FROGGY gives no working--at least this is all he gives: after stating
+the given equations, he says "therefore the difference, 1 sandwich + 3
+biscuits, = 3_d._": then follow the amounts of the unknown bills, with
+no further hint as to how he got them. FROGGY has had a _very_ narrow
+escape of not being named at all!
+
+Of those who are wrong, VIS INERTIÆ has sent in a piece of incorrect
+working. Peruse the horrid details, and shudder! She takes _x_ (call it
+"_y_") as the cost of a sandwich, and concludes (rightly enough) that a
+biscuit will cost (3-_y_)/3. She then subtracts the second equation from
+the first, and deduces 3_y_ + 7 × (3-_y_)/3-4_y_ + 10 × (3-_y_)/3 = 3.
+By making two mistakes in this line, she brings out _y_ = 3/2. Try it
+again, oh VIS INERTIÆ! Away with INERTIÆ: infuse a little more VIS: and
+you will bring out the correct (though uninteresting) result, 0 = 0!
+This will show you that it is hopeless to try to coax any one of these 3
+unknowns to reveal its _separate_ value. The other competitor, who is
+wrong throughout, is either J. M. C. or T. M. C.: but, whether he be a
+Juvenile Mis-Calculator or a True Mathematician Confused, he makes the
+answers 7_d._ and 1_s._ 5_d._ He assumes, with Too Much Confidence, that
+biscuits were 1/2_d._ each, and that Clara paid for 8, though she only
+ate 7!
+
+We will now consider the 13 whose working is wrong, though the answer is
+right: and, not to measure their demerits too exactly, I will take them
+in alphabetical order. ANITA finds (rightly) that "1 sandwich and 3
+biscuits cost 3_d._," and proceeds "therefore 1 sandwich = 1-1/2_d._, 3
+biscuits = 1-1/2_d._, 1 lemonade = 6_d._" DINAH MITE begins like ANITA:
+and thence proves (rightly) that a biscuit costs less than a 1_d._:
+whence she concludes (wrongly) that it _must_ cost 1/2_d._ F. C. W. is
+so beautifully resigned to the certainty of a verdict of "guilty," that
+I have hardly the heart to utter the word, without adding a "recommended
+to mercy owing to extenuating circumstances." But really, you know,
+where _are_ the extenuating circumstances? She begins by assuming that
+lemonade is 4_d._ a glass, and sandwiches 3_d._ each, (making with the 2
+given equations, _four_ conditions to be fulfilled by _three_ miserable
+unknowns!). And, having (naturally) developed this into a contradiction,
+she then tries 5_d._ and 2_d._ with a similar result. (N.B. _This_
+process might have been carried on through the whole of the Tertiary
+Period, without gratifying one single Megatherium.) She then, by a
+"happy thought," tries half-penny biscuits, and so obtains a consistent
+result. This may be a good solution, viewing the problem as a conundrum:
+but it is _not_ scientific. JANET identifies sandwiches with biscuits!
+"One sandwich + 3 biscuits" she makes equal to "4." Four _what_? MAYFAIR
+makes the astounding assertion that the equation, _s_ + 3_b_ = 3, "is
+evidently only satisfied by _s_ = 3/2, _b_ = 1/2"! OLD CAT believes that
+the assumption that a sandwich costs 1-1/2_d._ is "the only way to avoid
+unmanageable fractions." But _why_ avoid them? Is there not a certain
+glow of triumph in taming such a fraction? "Ladies and gentlemen, the
+fraction now before you is one that for years defied all efforts of a
+refining nature: it was, in a word, hopelessly vulgar. Treating it as a
+circulating decimal (the treadmill of fractions) only made matters
+worse. As a last resource, I reduced it to its lowest terms, and
+extracted its square root!" Joking apart, let me thank OLD CAT for some
+very kind words of sympathy, in reference to a correspondent (whose name
+I am happy to say I have now forgotten) who had found fault with me as a
+discourteous critic. O. V. L. is beyond my comprehension. He takes the
+given equations as (1) and (2): thence, by the process [(2)-(1)] deduces
+(rightly) equation (3) viz. _s_ + 3_b_ = 3: and thence again, by the
+process [x3] (a hopeless mystery), deduces 3_s_ + 4_b_ = 4. I have
+nothing to say about it: I give it up. SEA-BREEZE says "it is immaterial
+to the answer" (why?) "in what proportion 3_d._ is divided between the
+sandwich and the 3 biscuits": so she assumes _s_ = l-1/2_d._, _b_ =
+1/2_d._ STANZA is one of a very irregular metre. At first she (like
+JANET) identifies sandwiches with biscuits. She then tries two
+assumptions (_s_ = 1, _b_ = 2/3, and _s_ = 1/2 _b_ = 5/6), and
+(naturally) ends in contradictions. Then she returns to the first
+assumption, and finds the 3 unknowns separately: _quod est absurdum_.
+STILETTO identifies sandwiches and biscuits, as "articles." Is the w

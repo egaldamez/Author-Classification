@@ -1,0 +1,85 @@
+y, not counting trains met at the
+terminus itself?" (2) "They went round, as before, each traveller
+counting as 'one' the train containing the other traveller. How many did
+each meet?"
+
+_Answers._--(1) 19. (2) The easterly traveller met 12; the other 8.
+
+       *       *       *       *       *
+
+The trains one way took 180 minutes, the other way 120. Let us take the
+L. C. M., 360, and divide the railway into 360 units. Then one set of
+trains went at the rate of 2 units a minute and at intervals of 30
+units; the other at the rate of 3 units a minute and at intervals of 45
+units. An easterly train starting has 45 units between it and the first
+train it will meet: it does 2-5ths of this while the other does 3-5ths,
+and thus meets it at the end of 18 units, and so all the way round. A
+westerly train starting has 30 units between it and the first train it
+will meet: it does 3-5ths of this while the other does 2-5ths, and thus
+meets it at the end of 18 units, and so all the way round. Hence if the
+railway be divided, by 19 posts, into 20 parts, each containing 18
+units, trains meet at every post, and, in (1), each traveller passes 19
+posts in going round, and so meets 19 trains. But, in (2), the easterly
+traveller only begins to count after traversing 2-5ths of the journey,
+_i.e._, on reaching the 8th post, and so counts 12 posts: similarly the
+other counts 8. They meet at the end of 2-5ths of 3 hours, or 3-5ths of
+2 hours, _i.e._, 72 minutes.
+
+       *       *       *       *       *
+
+Forty-five answers have been received. Of these 12 are beyond the reach
+of discussion, as they give no working. I can but enumerate their names.
+ARDMORE, E. A., F. A. D., L. D., MATTHEW MATTICKS, M. E. T., POO-POO,
+and THE RED QUEEN are all wrong. BETA and ROWENA have got (1) right and
+(2) wrong. CHEEKY BOB and NAIRAM give the right answers, but it may
+perhaps make the one less cheeky, and induce the other to take a less
+inverted view of things, to be informed that, if this had been a
+competition for a prize, they would have got no marks. [N.B.--I have
+not ventured to put E. A.'s name in full, as she only gave it
+provisionally, in case her answer should prove right.]
+
+Of the 33 answers for which the working is given, 10 are wrong; 11
+half-wrong and half-right; 3 right, except that they cherish the
+delusion that it was _Clara_ who travelled in the easterly train--a
+point which the data do not enable us to settle; and 9 wholly right.
+
+The 10 wrong answers are from BO-PEEP, FINANCIER, I. W. T., KATE B., M.
+A. H., Q. Y. Z., SEA-GULL, THISTLEDOWN, TOM-QUAD, and an unsigned one.
+BO-PEEP rightly says that the easterly traveller met all trains which
+started during the 3 hours of her trip, as well as all which started
+during the previous 2 hours, _i.e._, all which started at the
+commencements of 20 periods of 15 minutes each; and she is right in
+striking out the one she met at the moment of starting; but wrong in
+striking out the _last_ train, for she did not meet this at the
+terminus, but 15 minutes before she got there. She makes the same
+mistake in (2). FINANCIER thinks that any train, met for the second
+time, is not to be counted. I. W. T. finds, by a process which is not
+stated, that the travellers met at the end of 71 minutes and 26-1/2
+seconds. KATE B. thinks the trains which are met on starting and on
+arriving are _never_ to be counted, even when met elsewhere. Q. Y. Z.
+tries a rather complex algebraical solution, and succeeds in finding the
+time of meeting correctly: all else is wrong. SEA-GULL seems to think
+that, in (1), the easterly train _stood still_ for 3 hours; and says
+that, in (2), the travellers met at the end of 71 minutes 40 seconds.
+THISTLEDOWN nobly confesses to having tried no calculation, but merely
+having drawn a picture of the railway and counted the trains; in (1),
+she counts wrong; in (2) she makes them meet in 75 minutes. TOM-QUAD
+omits (1): in (2) he makes Clara count the train she met on her arrival.
+The unsigned one is also unintelligible; it states that the travellers
+go "1-24th more than the total distance to be traversed"! The "Clara"
+theory, already referred to, is adopted by 5 of these, viz., BO-PEEP,
+FINANCIER, KATE B., TOM-QUAD, and the nameless writer.
+
+The 11 half-right answers are from BOG-OAK, BRIDGET, CASTOR, CHESHIRE
+CAT, G. E. B., GUY, MARY, M. A. H., OLD MAID, R. W., and VENDREDI. All
+these adopt the "Clara" theory. CASTOR omits (1). VENDREDI gets (1)
+right, but in (2) makes the same mistake as BO-PEEP. I notice in your
+solution a marvellous proportion-sum:--"300 miles: 2 hours :: one mile:
+24 seconds." May I venture to advise your acquiring, as soon as
+possible, an utter disbelief in the possibility of a ratio existing
+between _miles_ and _hours_? Do not be disheartened by your two friends'
+sarcastic remarks on your "roundabout ways." Their short method, of
+adding 12 and 8, has the slight disadvantage of bringing the answer
+wrong: even a "roundabout" method is better than _that_! M. A. H., in
+(2), makes the travellers count "one" _after_ they met, not _when_ they
+met. CHESHIRE CAT and OLD MAID get "20" as answ
