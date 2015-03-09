@@ -70,7 +70,7 @@ def cat_data(data_directory):
     '''
         Create a large list where each element is a string representing a document.
     '''
-    from nltk import word_tokenize
+    #from nltk import word_tokenize
     
     corpus = []
     
@@ -83,11 +83,14 @@ def cat_data(data_directory):
             #tokenCount.append(len(word_tokenize(raw)));
             
             
-    print("Average Token Count: ",numpy.mean(tokenCount));
+    #print("Average Token Count: ",numpy.mean(tokenCount));
 
     return corpus
 
-
+def get_data(filename):
+    with open(DATA_DIRECTORY + '\\' + filename) as doc:
+            raw = doc.read();
+    return raw
 
 def run_script():
     '''
