@@ -14,11 +14,12 @@ class KNNClassifier():
     """
     KNNClassifier provides classification methods for Author Classification using K-Nearest Neighbor Algorithms
     """
-    def __init__(self,K):
+    def __init__(self,K=1):
         #Setting default K
         self.K = K;
-        self.weights = 'uniform';
-        self.KNN = KNeighborsClassifier(n_neighbors = self.K,weights = self.weights);
+        self.algorithm = 'ball_tree'
+        self.weights = 'distance';
+        self.KNN = KNeighborsClassifier(n_neighbors = self.K,weights = self.weights,algorithm=self.algorithm);
 
     def Predict(self,X):
         # Plot the decision boundary. For that, we will assign a color to each

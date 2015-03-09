@@ -1,8 +1,11 @@
 import Parser
 import numpy
+<<<<<<< HEAD
 
+=======
+>>>>>>> 0b182e2313013184daaf00fd1b2592b96fb765a0
 def cross_validate_knn(V,K):
-    
+   
     from sklearn.feature_extraction.text import TfidfVectorizer,CountVectorizer
     from sklearn import cross_validation
     from KNNClassifier import KNNClassifier
@@ -12,10 +15,14 @@ def cross_validate_knn(V,K):
     author_target_map = Parser.map_author_value(filenames) # maps authors to integer values
     
     #bag of words representation
+<<<<<<< HEAD
     count_vect = CountVectorizer()
+=======
+    #count_vect = CountVectorizer(ngram_range=(2,3))
+>>>>>>> 0b182e2313013184daaf00fd1b2592b96fb765a0
     
     # term frequency–inverse document frequency
-    #tfid_vect = TfidfVectorizer(ngram_range=(2,3))
+    tfid_vect = TfidfVectorizer()
     
     random.seed(0);
     random.shuffle(filenames);
@@ -23,10 +30,10 @@ def cross_validate_knn(V,K):
     print('Vectorizing Files\n');
     
     #SparseMatrix from Bag-of-Words
-    FILENAMES = count_vect.fit_transform(Parser.cat_data(filenames))
+    #FILENAMES = count_vect.fit_transform(Parser.cat_data(filenames))
     
     #SparseMatrix from Tf_IDF
-    #FILENAMES = tfid_vect.fit_transform(cat_data(filenames))
+    FILENAMES = tfid_vect.fit_transform(Parser.cat_data(filenames))
     
     n_samples,n_features = FILENAMES.shape
     print("Matrix Shape: ",n_samples,"x",n_features)
