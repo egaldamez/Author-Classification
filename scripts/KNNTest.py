@@ -53,6 +53,6 @@ def cross_validate_knn(V,K):
     return validationAccuracy;
 
 # Set to run with multiple values for k
-for i in range(1,6):
+for i in range(1,4):
     VA = cross_validate_knn(5,i)
     print("Mean (CV) Accuracy K={}: ".format(i), numpy.mean(VA))

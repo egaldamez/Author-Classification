@@ -4,53 +4,83 @@
 # Runs a loop a given number of times to get an average accuracy performance
 
 
-import Parser, numpy
+import Parser, numpy, random
+from sklearn.feature_extraction.text import TfidfVectorizer,CountVectorizer
+from sklearn import cross_validation
 from sklearn.naive_bayes import MultinomialNB
-from sklearn.neighbors import KNeighborsClassifier
+from KNNClassifier import KNNClassifier
 
 # Number of times to run predictions
-iters = 25
+iters = 1
 
 # Lists of prediction accuracies from each run
-mnb_tr_list = []
-mnb_te_list = []
-knn_tr_list = []
-knn_te_list = []
+total_mnb_tr_list = []
+total_mnb_te_list = []
+total_knn_tr_list = []
+total_knn_te_list = []
 
 for i in range(iters):
     # Re-run to create new train/test splits
     Parser.run_script()
 
-    train_data = Parser.TRAIN_SPARSE
-    train_targets = Parser.TRAIN_TARGET
+    filenames = Parser.get_filenames();
+    author_target_map = Parser.map_author_value(filenames)
+    tfid_vect = TfidfVectorizer()
 
-    test_data = Parser.TEST_SPARSE
+    random.seed(0);
+    random.shuffle(filenames);
 
-    # Not used currently
-##    Amap = Parser.author_target_map
-##    vect = Parser.count_vect
+    FILENAMES = tfid_vect.fit_transform(Parser.cat_data(filenames))
+
+    n_samples,n_features = FILENAMES.shape
+    kf = cross_validation.KFold(n_samples,5)
 
     k = 1
 
-    # Create learners
-    mnb_clf = MultinomialNB()
-    mnb_clf.fit(train_data, train_targets)
+    for train_index,test_index in kf:
 
-    knn_clf = KNeighborsClassifier (n_neighbors=k, weights='uniform')
-    knn_clf.fit(train_data, train_targets)
+        mnb_tr_list = []
+        mnb_te_list = []
+        knn_tr_list = []
+        knn_te_list = []
 
-    # Run predictions
-    knn_train_predictions = knn_clf.predict(train_data)
-    knn_predictions = knn_clf.predict(test_data)
+        ValidationSet = FILENAMES[test_index]
+        TrainSet = FILENAMES[train_index]
 
-    mnb_train_predictions = mnb_clf.predict(train_data)
-    mnb_predictions = mnb_clf.predict(test_data)
+        datadirectory = []
+        for i in test_index:
+            datadirectory.append(filenames[i])
+        ValidationTarget = Parser.get_target_values(datadirectory,author_target_map)
+        datadirectory = []
 
-    # Record the prediction accuracies
-    mnb_tr_list.append(numpy.mean(mnb_train_predictions == Parser.TRAIN_TARGET))
-    mnb_te_list.append(numpy.mean(mnb_predictions == Parser.TEST_TARGET))
-    knn_tr_list.append(numpy.mean(knn_train_predictions == Parser.TRAIN_TARGET))
-    knn_te_list.append(numpy.mean(knn_predictions == Parser.TEST_TARGET))
+        for i in train_index:
+            datadirectory.append(filenames[i])
+        TrainTarget = Parser.get_target_values(datadirectory,author_target_map)
+
+        # Create learners
+        mnb_clf = MultinomialNB()
+        mnb_clf.fit(TrainSet, TrainTarget)
+
+        knn_clf = KNNClassifier(k)
+        knn_clf.Train(TrainSet, TrainTarget)
+
+        # Run predictions
+        knn_train_predictions = knn_clf.Predict(TrainSet)
+        knn_predictions = knn_clf.Predict(ValidationSet)
+
+        mnb_train_predictions = mnb_clf.predict(TrainSet)
+        mnb_predictions = mnb_clf.predict(ValidationSet)
+
+        # Record the prediction accuracies
+        mnb_tr_list.append(numpy.mean(mnb_train_predictions == TrainTarget))
+        mnb_te_list.append(numpy.mean(mnb_predictions == ValidationTarget))
+        knn_tr_list.append(numpy.mean(knn_train_predictions == TrainTarget))
+        knn_te_list.append(numpy.mean(knn_predictions == ValidationTarget))
+
+        total_mnb_tr_list.append(numpy.mean(mnb_tr_list))
+        total_mnb_te_list.append(numpy.mean(mnb_te_list))
+        total_knn_tr_list.append(numpy.mean(knn_tr_list))
+        total_knn_te_list.append(numpy.mean(knn_te_list))
 
     # Print accuracies for each run for debugging
 ##    print("ITER #" + str(i))
@@ -61,7 +91,7 @@ for i in range(iters):
 ##    print("Test Accuracy of MNB",numpy.mean(mnb_predictions == Parser.TEST_TARGET))
 
 # Output average accuracies
-print("\nAverage MNB train accuracy:", numpy.mean(mnb_tr_list))
-print("Average MNB test accuracy:", numpy.mean(mnb_te_list))
-print("Average KNN train accuracy:", numpy.mean(knn_tr_list))
-print("Average KNN test accuracy:", numpy.mean(knn_te_list))
+print("\nAverage MNB train accuracy:", numpy.mean(total_mnb_tr_list))
+print("Average MNB test accuracy:", numpy.mean(total_mnb_te_list))
+print("Average KNN train accuracy:", numpy.mean(total_knn_tr_list))
+print("Average KNN test accuracy:", numpy.mean(total_knn_te_list))
