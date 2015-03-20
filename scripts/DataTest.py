@@ -20,12 +20,10 @@ total_knn_tr_list = []
 total_knn_te_list = []
 
 for i in range(iters):
-    # Re-run to create new train/test splits
-    Parser.run_script()
-
     filenames = Parser.get_filenames();
     author_target_map = Parser.map_author_value(filenames)
-    tfid_vect = TfidfVectorizer()
+    tfid_vect = CountVectorizer() # Ignore the nonsensical name, this is for ease of use
+##    tfid_vect = TfidfVectorizer()
 
     random.seed(0);
     random.shuffle(filenames);
@@ -35,7 +33,7 @@ for i in range(iters):
     n_samples,n_features = FILENAMES.shape
     kf = cross_validation.KFold(n_samples,5)
 
-    k = 1
+    k = 3
 
     for train_index,test_index in kf:
 
