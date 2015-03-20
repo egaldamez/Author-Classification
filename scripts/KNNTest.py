@@ -1,3 +1,6 @@
+# This script is specifically to test the KNNClassifier class.
+# This is also tested along with MNB in DataTest.py
+
 import Parser
 import numpy
 def cross_validate_knn(V,K):

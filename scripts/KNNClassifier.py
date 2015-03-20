@@ -1,3 +1,6 @@
+# This is our implementation of a wrapper class for the KNN classifier
+# provided by sklearn.
+
 from time import time
 import numpy as np
 import matplotlib.pyplot as plt

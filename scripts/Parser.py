@@ -6,7 +6,7 @@ Created on Mon Feb 16 12:37:33 2015
 """
 
 # This script is used to parse the data into bag of words
-# and into n_grams representations
+# and into n_grams representations (We didn't implement n-grams)
 
 
 from DataInitializer import data_directory_read, shuffle_data, split_data

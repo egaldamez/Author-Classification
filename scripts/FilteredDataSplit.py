@@ -1,5 +1,8 @@
 import os
 
+# This script is used to take the files created by DocumentFilter.py and break them
+# into chunks of some given size, saving those chunks as files in a different directory.
+
 # ---------------
 # NOTE: You should delete the files out of the chunk directory before running
 # ---------------

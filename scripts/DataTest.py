@@ -22,35 +22,44 @@ total_knn_te_list = []
 for i in range(iters):
     filenames = Parser.get_filenames();
     author_target_map = Parser.map_author_value(filenames)
+
+    # Create vectorizer of chosen type (uncomment the type you want)    
     tfid_vect = CountVectorizer() # Ignore the nonsensical name, this is for ease of use
 ##    tfid_vect = TfidfVectorizer()
 
     random.seed(0);
     random.shuffle(filenames);
 
+    # Create feature matrix 
     FILENAMES = tfid_vect.fit_transform(Parser.cat_data(filenames))
 
+    # Set up cross-validation
     n_samples,n_features = FILENAMES.shape
     kf = cross_validation.KFold(n_samples,5)
 
-    k = 3
+    # Set k for the knn classifier
+    k = 1
+
+    # Lists to average the folds together
+    mnb_tr_list = []
+    mnb_te_list = []
+    knn_tr_list = []
+    knn_te_list = []
 
     for train_index,test_index in kf:
 
-        mnb_tr_list = []
-        mnb_te_list = []
-        knn_tr_list = []
-        knn_te_list = []
-
+        # Break training from validation
         ValidationSet = FILENAMES[test_index]
         TrainSet = FILENAMES[train_index]
 
+        # Set up validations targets
         datadirectory = []
         for i in test_index:
             datadirectory.append(filenames[i])
         ValidationTarget = Parser.get_target_values(datadirectory,author_target_map)
-        datadirectory = []
 
+        # Set up train targets
+        datadirectory = []
         for i in train_index:
             datadirectory.append(filenames[i])
         TrainTarget = Parser.get_target_values(datadirectory,author_target_map)
@@ -75,10 +84,11 @@ for i in range(iters):
         knn_tr_list.append(numpy.mean(knn_train_predictions == TrainTarget))
         knn_te_list.append(numpy.mean(knn_predictions == ValidationTarget))
 
-        total_mnb_tr_list.append(numpy.mean(mnb_tr_list))
-        total_mnb_te_list.append(numpy.mean(mnb_te_list))
-        total_knn_tr_list.append(numpy.mean(knn_tr_list))
-        total_knn_te_list.append(numpy.mean(knn_te_list))
+    # Record the cross-validation accuracies
+    total_mnb_tr_list.append(numpy.mean(mnb_tr_list))
+    total_mnb_te_list.append(numpy.mean(mnb_te_list))
+    total_knn_tr_list.append(numpy.mean(knn_tr_list))
+    total_knn_te_list.append(numpy.mean(knn_te_list))
 
     # Print accuracies for each run for debugging
 ##    print("ITER #" + str(i))
